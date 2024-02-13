@@ -1,0 +1,17 @@
+
+:root {
+    --background-main: rgb(218, 218, 221);
+
+header {
+    display: block;
+}
+
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    align-items: right;
+    justify-content: space-around;
+    float: right;
+    width: 25%;
+    list-style: none;
+}
