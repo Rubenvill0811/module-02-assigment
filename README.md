@@ -10,3 +10,6 @@ https://www.w3schools.com/css/css3_shadows_box.asp
 
 text under boxes
 https://stackoverflow.com/questions/22592064/how-to-align-text-below-an-image-in-css
+
+shadow
+https://www.w3schools.com/css/css3_shadows_box.asp
