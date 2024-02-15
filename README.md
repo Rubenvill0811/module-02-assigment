@@ -1,15 +1,24 @@
 # module-02-assigment
 
-sources:
+## sources:
 
-help with nav bar
+## help with nav bar
 https://www.w3schools.com/css/css_navbar_horizontal.asp
 
-for shadow
+## for shadow
 https://www.w3schools.com/css/css3_shadows_box.asp
 
-text under boxes
+## text under boxes
 https://stackoverflow.com/questions/22592064/how-to-align-text-below-an-image-in-css
 
-shadow
+## shadow
 https://www.w3schools.com/css/css3_shadows_box.asp
+
+## for background image
+https://www.w3schools.com/css/css_background_image.asp
+
+## text align
+https://stackoverflow.com/questions/22592064/how-to-align-text-below-an-image-in-css
+
+# Important
+I do not have any of my own apps to display, so as suggested on the README file about the assignment, I have used the sample pictures as fillers.
